@@ -1,0 +1,24 @@
+{
+  "name": "hellohackerssoc",
+  "version": "1.0.0",
+  "description": "Site for helloHackers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomMisson/HelloHackersSoc.git"
+  },
+  "author": "Society Council 2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomMisson/HelloHackersSoc/issues"
+  },
+  "homepage": "https://github.com/tomMisson/HelloHackersSoc#readme",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router": "^5.1.2"
+  }
+}
